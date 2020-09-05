@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapsFragment</string>
+    <string name="line_1">Line 1</string>
+    <string name="line_2">Line 2</string>
+    <string name="remover">Remove</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="title">Title</string>
+    <string name="done">[DONE]</string>
+    <string name="not_done">[NOT DONE]</string>
+    <string name="text_share">Hey! I just finished</string>
+</resources>

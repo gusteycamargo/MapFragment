@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapsFragment</string>
+    <string name="done">[FEITO]</string>
+    <string name="line_1">Linha 1</string>
+    <string name="line_2">Linha 2</string>
+    <string name="not_done">[NÃO FEITO]</string>
+    <string name="remover">Remover</string>
+    <string name="title">Título</string>
+    <string name="text_share">Oba! Acabei de concluir</string>
+</resources>
